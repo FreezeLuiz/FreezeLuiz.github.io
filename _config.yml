@@ -134,6 +134,7 @@ kramdown:
       start_line: 1
 
 collections:
+  protected:
   tabs:
     output: true
     sort_by: order
