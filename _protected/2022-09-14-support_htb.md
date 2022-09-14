@@ -1,6 +1,6 @@
 ---
 title: 'HackTheBox: Taking advantage of Kerberos Resource-based Constrained Delegation to gain "Domain Admin"'
-password: 'Administrator:500:aad3b435b51404eeaad3b435b51404ee:1bc3af33d22c1c2baec10a32db22c72d:::'
+password: 'DC$:1000:aad3b435b51404eeaad3b435b51404ee:7001cb11eaec689119db510f7376fe72:::'
 date: 2022-09-14 11:43:00 +0100
 categories: [HackTheBox, Windows]
 tags: [activedirectory, hackthebox, windows, kerberos, admin, privesc]
