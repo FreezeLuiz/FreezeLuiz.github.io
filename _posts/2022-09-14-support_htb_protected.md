@@ -5,4 +5,4 @@ categories: [HackTheBox, Windows]
 tags: [activedirectory, hackthebox, windows, kerberos, admin, privesc]
 ---
 ## Live Machine, go through security!
-[Password is the Admin's NTLM >> Administrator:500:HASH:HASH:::](/protected/2022-09-14-support_htb/)
+[Password is the DC$'s NTLM >> DC$:1000:HASH:HASH:::](/protected/2022-09-14-support_htb/)
